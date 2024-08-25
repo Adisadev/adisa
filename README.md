@@ -1,2 +1,0 @@
-# adisa
-a blog website
